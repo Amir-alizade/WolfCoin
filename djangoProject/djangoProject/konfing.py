@@ -1,0 +1,1 @@
+allow = "d6fd-170-64-202-36.ngrok-free.app"
